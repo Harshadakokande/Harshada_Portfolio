@@ -3,6 +3,10 @@
 ![Portfolio Screenshot](./src/assets/images/img01.png)
 
 Personal developer portfolio showcasing my projects, skills, and professional journey.
+## Live Demo
+
+**Live Website:**  
+https://main.d1xfgnviq6y2tu.amplifyapp.com/
 
 
 
