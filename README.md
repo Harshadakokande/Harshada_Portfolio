@@ -1,6 +1,6 @@
 # Harshada Kokande – Developer Portfolio 🚀
 
-![Portfolio Screenshot](./src/assets/images/img.png)
+![Portfolio Screenshot](./src/assets/images/img01.png)
 
 Personal developer portfolio showcasing my projects, skills, and professional journey.
 
