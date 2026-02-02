@@ -4,11 +4,7 @@
 
 Personal developer portfolio showcasing my projects, skills, and professional journey.
 
-## Live Demo
-👉 https://harshada-portfolio.vercel.app  
-*(replace with your actual deployed link if different)*
 
----
 
 ## About Me
 
